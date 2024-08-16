@@ -48,7 +48,7 @@ export default function LandingPage() {
         <Hero />
         <Box sx={{ 
               background: theme.palette.mode === 'dark' 
-                ? 'linear-gradient(-95deg ,rgb(13, 13, 13) 50%,rgb(15, 15, 15) 75%, rgb(255, 82, 14) 100%)'
+                ? 'linear-gradient(60deg, rgb(255, 71, 26) -60%, rgb(0, 0, 0) 50%, rgb(15, 15, 15) 75%, rgb(255, 82, 14) 100%)'
                 : 'inherit',
               color: theme.palette.mode === 'dark' ? 'white' : 'inherit'
             }}>
