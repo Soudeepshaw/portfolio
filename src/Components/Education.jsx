@@ -29,7 +29,7 @@ const educationData = [
     period: '2021-2025',
     details: [
       'University Name: Maulana Abul Kalam Azad University of Technology',
-      'CGPA: 8.5',
+      'CGPA: 8.29',
       'Stream: Computer Science Engineering',
       'College Name: Budge Budge Institute of Technology',
     ],
@@ -42,7 +42,7 @@ const educationData = [
     details: [
       'Completed: Class 10',
       'School Name: Sudhir Memorial',
-      'Percentage: 65%',
+      
       'Stream: General Studies',
     ],
     buttonText: 'View Details',
