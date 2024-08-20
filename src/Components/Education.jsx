@@ -28,10 +28,10 @@ const educationData = [
     subheader: 'Current',
     period: '2021-2025',
     details: [
-      'College Name: Maulana Abul Kalam Azad University of Technology',
+      'University Name: Maulana Abul Kalam Azad University of Technology',
       'CGPA: 8.5',
       'Stream: Computer Science Engineering',
-      'Location: Budge Budge Institute of Technology',
+      'College Name: Budge Budge Institute of Technology',
     ],
     buttonText: 'View Details',
     buttonVariant: 'contained',
