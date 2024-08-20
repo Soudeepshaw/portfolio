@@ -126,7 +126,7 @@ export default function Hero() {
             <Button 
               variant="outlined" 
               color="primary"
-              href="#contact" // Update with your contact section ID
+              href="mailto:SoudeepShaw@gmail.com" // Update with your contact section ID
             >
               Contact Me
             </Button>
