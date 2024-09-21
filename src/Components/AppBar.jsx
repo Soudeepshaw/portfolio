@@ -228,7 +228,7 @@ function AppAppBar() {
                       variant="text"
                       size="small"
                       component="a"
-                      href="/SoudeepResume.pdf"
+                      href="/SoudeepResumeFinal.pdf"
                       download
                       sx={{ width: '100%' }}
                     >
@@ -239,7 +239,7 @@ function AppAppBar() {
                     <Button
                       color="primary"
                       variant="outlined"
-                      href="mailto:yourname@example.com"
+                      href="SoudeepResumeFinal.com"
                       sx={{ width: '100%' }}
                     >
                       Contact Us
